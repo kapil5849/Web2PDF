@@ -3,12 +3,6 @@
   <strong>
     Effortlessly convert any website to a PDF file
   </strong>
-  <a href="https://web2pdf.netlify.app/">
-    <img
-      alt="Website to PDF"
-      src="./assets/hero.jpg"
-    />
-  </a>
 </div>
 
 <hr>
